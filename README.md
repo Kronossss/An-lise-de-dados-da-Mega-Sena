@@ -84,8 +84,7 @@ Evita números duplicados
 
 Exemplo de saída:
 
-csharp
-Copiar código
+
 [7, 16, 25, 28, 34, 44, 50]
 
 📈 Visualizações
